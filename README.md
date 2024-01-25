@@ -4,4 +4,4 @@
 
 - Para ejecutar el juego, debes poner:
 
- ´´´npm install react´´´´
+npm install react
